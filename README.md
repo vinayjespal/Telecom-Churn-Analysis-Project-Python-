@@ -1,4 +1,3 @@
-# Telecom-Churn-Analysis-Project-Python-
 # 📊 Telecom Churn Analysis Using Python
 
 ## 📌 Overview
